@@ -2,7 +2,7 @@
 
 - For `Account setup` **_https://github.com/Devolved-AI/Argochain/blob/main/node/src/chain_spec.rs#L79-L195_**
 
-- For `native coin` **_https://github.com/Devolved-AI/Argochain/blob/main/node/src/chain_spec.rs#L201-204_**
+- For `native coin` **_https://github.com/Devolved-AI/Argochain/blob/main/node/src/chain_spec.rs#L201-L204_**
 
 - For `Staking Config` **_https://github.com/Devolved-AI/Argochain/blob/main/node/src/chain_spec.rs#L335-L342_**
 
