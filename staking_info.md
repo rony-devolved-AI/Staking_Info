@@ -15,4 +15,4 @@
 
 - `staking reward curve` **_https://github.com/Devolved-AI/Argochain/blob/main/runtime/src/lib.rs#L547-L553_** 
 
-- `customized staking pallet` **_https://github.com/Devolved-AI/Argochain/blob/main/runtime/src/lib.rs#L558-565_**
+- `customized staking pallet` **_https://github.com/Devolved-AI/Argochain/blob/main/runtime/src/lib.rs#L558-L565_**
